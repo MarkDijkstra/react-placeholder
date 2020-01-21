@@ -5,7 +5,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/MarkDijkstra/react-placeholder)
 ![CircleCI](https://img.shields.io/circleci/build/github/MarkDijkstra/react-placeholder)
 
-React placeholder component which allows you to create dummy boxes.
+React component which allows you to create dummy placeholders.
 
 ### How install
 

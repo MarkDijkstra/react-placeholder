@@ -1,24 +1,28 @@
 {
-  "name": "@markdijkstra/placeholder",
-  "version": "1.0.0",
-  "description": "Package that allows you to easily setup and add dummy placeholder on your site.",
+  "name": "@markdijkstra/react-placeholder",
+  "version": "1.0.1",
+  "description": "React component which allows you to create dummy placeholders.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MarkDijkstra/placeholder.git"
+    "url": "https://github.com/MarkDijkstra/react-placeholder.git"
   },
   "keywords": [
     "npm",
     "placeholder",
-    "component"
+    "component",
+    "react"
   ],
   "author": "Mark Dijkstra",
   "license": "(MIT OR Apache-2.0)",
   "bugs": {
-    "url": "https://github.com/MarkDijkstra/placeholder/issues"
+    "url": "https://github.com/MarkDijkstra/react-placeholder/issues"
   },
-  "homepage": "https://github.com/MarkDijkstra/placeholder#readme",
+  "homepage": "https://github.com/MarkDijkstra/react-placeholder#readme",
+  "dependencies" : {
+    "react" : "^16.12.0"
+  }
 }
