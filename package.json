@@ -1,0 +1,24 @@
+{
+  "name": "@markdijkstra/placeholder",
+  "version": "1.0.0",
+  "description": "Package that allows you to easily setup and add dummy placeholder on your site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarkDijkstra/placeholder.git"
+  },
+  "keywords": [
+    "npm",
+    "placeholder",
+    "component"
+  ],
+  "author": "Mark Dijkstra",
+  "license": "(MIT OR Apache-2.0)",
+  "bugs": {
+    "url": "https://github.com/MarkDijkstra/placeholder/issues"
+  },
+  "homepage": "https://github.com/MarkDijkstra/placeholder#readme",
+}
